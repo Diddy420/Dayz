@@ -1,0 +1,518 @@
+                        [BY 🇬🇧SHOTSx3#6435]
+              [ADD ON DISCORD FOR XML HELP]
+                              [JOIN DZMC]
+       ˜”*°•.˜”*°• DAYZ XBOX /PLAYSTATION •°*”˜.•°*”˜
+
+        [ COPY THIS TO YOUR SPAWNABLETYPES.XML]			
+  [COPY AND REPLACE THE XXS WITH  YOUR NPC NAME ]
+			                 (EXAMPLE)
+              <type name="SurvivorF_Irena">
+
+
+
+    <type name="XXXXXXXXXXXXXXX">
+        <attachments chance="1.00">
+            <item name="WitchHood_Red" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="QuiltedJacket_Violet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CanvasPants_Violet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="WorkingBoots_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HighCapacityVest_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AliceBag_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="WorkingGloves_Beige" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SeaChest" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cauldron" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cauldron" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FryingPan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="LargeGasCanister" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="MediumGasCanister" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="MediumGasCanister" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SmallGasCanister" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SmallGasCanister" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PortableGasStove" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PortableGasStove" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PortableGasStove" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pot" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pot" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pot" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PetrolLighter" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AgaricusMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AgaricusMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Apple" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Apple" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AuriculariaMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AuriculariaMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BakedBeansCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BakedBeansCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BakedBeansCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BakedBeansCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BakedBeansCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Banana" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Banana" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Banana" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Banana" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Banana" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Banana" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BearSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BearSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BearSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoarSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoarSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoarSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoletusMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoletusMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoxCerealCrunchin" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoxCerealCrunchin" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoxCerealCrunchin" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BoxCerealCrunchin" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Cannabis" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CaninaBerry" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CaninaBerry" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Canteen" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Canteen" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Canteen" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CatFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CatFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CatFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CatFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CatFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ChickenBreastMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ChickenBreastMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ChickenBreastMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ChickenBreastMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ChickenBreastMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chips" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chips" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chips" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chips" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chips" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CowSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CowSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CowSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Crackers" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Crackers" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Crackers" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Crackers" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Crackers" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DeerSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DeerSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DeerSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DogFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DogFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DogFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DogFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="DogFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FoxSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FoxSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FoxSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="GoatSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="GreenBellPepper" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HumanSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Honey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Honey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Honey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Kiwi" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Kiwi" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Kiwi" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="LactariusMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Lard" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="MacrolepiotaMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Marmalade" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Marmalade" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Marmalade" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Orange" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Orange" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Orange" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pajka" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pajka" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pajka" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pate" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pate" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pate" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PeachesCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PeachesCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PeachesCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PeachesCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Pear" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PigSteakMeat" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PleurotusMushroom" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Plum" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PorkCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Potato" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PowderedMilk" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SardinesCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SodaCan_Cola" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SodaCan_Kvass" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SodaCan_Pipsi" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SodaCan_Spite" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SodaCan_Pipsi" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SodaCan_Spite" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SpaghettiCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SpaghettiCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SpaghettiCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TacticalBaconCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TacticalBaconCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TunaCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TunaCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Vodka" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Vodka" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UnknownFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UnknownFoodCan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Zagorky" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ZagorkyChocolate" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ZagorkyPeanuts" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Zucchini" chance="1.00" />
+        </attachments>
+    </type>

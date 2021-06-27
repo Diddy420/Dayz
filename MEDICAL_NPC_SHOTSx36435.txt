@@ -1,0 +1,555 @@
+                        [BY 🇬🇧SHOTSx3#6435]
+              [ADD ON DISCORD FOR XML HELP]
+                              [JOIN DZMC]
+       ˜”*°•.˜”*°• DAYZ XBOX /PLAYSTATION •°*”˜.•°*”˜
+
+
+        [ COPY THIS TO YOUR SPAWNABLETYPES.XML]			
+  [COPY AND REPLACE THE XXS WITH  YOUR NPC NAME ]
+			                 (EXAMPLE)
+              <type name="SurvivorF_Irena">
+
+
+
+    <type name="XXXXXXXXXXXXXXX">
+        <attachments chance="1.00">
+            <item name="MedicalScrubsHat_Blue" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ParamedicJacket_Blue" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ParamedicPants_Blue" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="JungleBoots_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HuntingVest" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AliceBag_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SurgicalGloves_LightBlue" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SeaChest" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodBagEmpty" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodSyringe" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CharcoalTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defibrillator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defibrillator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PurificationTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Splint" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Splint" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Splint" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="StartKitIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="StartKitIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="StartKitIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="StartKitIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="StartKitIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="StartKitIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="StartKitIV" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Thermometer" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Thermometer" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+    </type>

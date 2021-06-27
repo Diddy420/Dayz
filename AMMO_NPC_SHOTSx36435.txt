@@ -1,0 +1,1057 @@
+		
+                        [BY 🇬🇧SHOTSx3#6435]
+              [ADD ON DISCORD FOR XML HELP]
+                              [JOIN DZMC]
+       ˜”*°•.˜”*°• DAYZ XBOX /PLAYSTATION •°*”˜.•°*”˜
+
+
+        [ COPY THIS TO YOUR SPAWNABLETYPES.XML]	   
+  [COPY AND REPLACE THE XXS WITH  YOUR NPC NAME ]
+		 (EXAMPLE)
+              <type name="SurvivorF_Irena">
+
+
+
+    <type name="XXXXXXXXXXXXXXX">
+        <attachments chance="1.00">
+            <item name="WitchHood_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BDUJacket" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FirefightersPants_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="JungleBoots_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HuntingVest" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AliceBag_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TacticalGloves_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SeaChest" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaBeanbag_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_00buck_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_12gaRubberSlug_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_22_50Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308WinTracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_357_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_380_35rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_545x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x19_25rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+        </attachments>
+    </type>
